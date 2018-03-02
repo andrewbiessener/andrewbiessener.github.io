@@ -10,7 +10,7 @@ html {
 
 html, body {
   min-height: 100%;
-  display: flex;
+  display: inline-block;
   flex-direction: ;
   font-weight: 300;
   line-height: 1.5;
@@ -50,15 +50,3 @@ ul#menu li {
 
 li {
     list-style-type: none;
-
-}
-
-.wrapper {
-  background-color: green; /* for vizualization purposes */
-  text-align: center;
-}
-.yourdiv {
-  background-color: red; /* for vizualization purposes */
-  display: inline-block;
-}
-

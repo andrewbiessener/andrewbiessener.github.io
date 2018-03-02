@@ -14,12 +14,12 @@ html, body {
   flex-direction: ;
   font-weight: 300;
   line-height: 1.5;
-	text-align: center;
-	display: block;
+	text-align: left;
+	text-indent 50px;
 }
 
 p {
-text-align: center;
+text-align: left;
 	
 }
 .hero {
@@ -27,18 +27,18 @@ text-align: center;
 }
 
 body {
-text-align: center;
+text-align: left;
 	 
 }
 
 .phoneaddress {
 
-	text-align: center;
+	text-align: left;
 }
 
 .pro {
 color: #FF00FF
-	text-align: center;
+	text-align: left;
 }
 
 

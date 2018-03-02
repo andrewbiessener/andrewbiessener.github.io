@@ -45,3 +45,8 @@ ul#menu li {
     display:inline;
 	margin: 80px;
 }
+
+li {
+    list-style-type: none;
+}
+

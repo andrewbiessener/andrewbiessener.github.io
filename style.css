@@ -48,5 +48,8 @@ ul#menu li {
 
 li {
     list-style-type: none;
+	 width:200px;
+    margin:0 auto;
+    text-align:left;
 }
 

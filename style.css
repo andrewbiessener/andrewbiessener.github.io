@@ -44,6 +44,9 @@ color: #FF00FF
 	text-align: center;
 }
 
+.links {	
+	list-style-type: none;
+	}
 
 ul#menu li {
     display:inline;

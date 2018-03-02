@@ -51,11 +51,4 @@ ul#menu li {
 li {
     list-style-type: none;
 	
-.container {
-   text-align: center;
- }
 
-.container pre {
-  display: inline-block;
-  text-align: left;
- }

@@ -19,7 +19,7 @@ html, body {
 }
 
 p {
-text-align: left;
+text-align: center;
 	
 }
 .hero {
@@ -27,25 +27,25 @@ text-align: left;
 }
 
 body {
-text-align: left;
+text-align: center;
 	 
 }
 
 .phoneaddress {
 
-	text-align: left;
+	text-align: center;
 }
 
 .pro {
 color: #FF00FF
-	text-align: left;
+	text-align: center;
 }
 
 
 ul#menu li {
     display:inline;
 	margin: 20px;
-	text-align: right;
+	text-align: center;
 }
 
 li {

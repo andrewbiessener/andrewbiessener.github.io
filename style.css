@@ -49,6 +49,7 @@ ul#menu li {
     display:inline;
 	margin: 20px;
 	text-align: center;
+	list-style-type: none;
 }
 
 li {
